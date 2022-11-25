@@ -13,11 +13,11 @@ Children:
   - Name: Username
     Type: PropertyType
     DataType: String
-    Value: ""
+    Value: "db_user1"
   - Name: Password
     Type: PropertyType
     DataType: Password
-    SecretValue: V82M3lCEJakM2+JiJMrdjAgTSV+CMPdft749AQ==
+    SecretValue: /7kESSdgF6cb0TT76F9PR7Vn8/PJQ1Jj2AqsqxhlhlJ/nV9J
   - Name: MaxColumnNameLength
     Type: BaseDataVariableType
     DataType: UInt32
